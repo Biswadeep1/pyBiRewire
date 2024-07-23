@@ -18,7 +18,7 @@ cimport cython
 import numpy as np
 cimport numpy as np
 from math import *
-import jgraph as i
+import igraph as i
 import os
 import csv
 
